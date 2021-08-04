@@ -15,10 +15,9 @@
 </div>
 
 ### Analytics Tools
+* **Operating system:** Unix(Linux, macOS), Windows
 
-* **Data Collection and Storage:** SQL.
-
-* **Data Processing and Analytics:** Python and R.
+* **Data Processing and Analytics:** SQL, Python and R.
 
 * **Data Visualization:** ggplot2, Seaborn, Matplotlib.
 
