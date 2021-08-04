@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Felipe Bitencourt Martins</h1>
+<h1 align="center">Felipe Bitencourt Martins</h1>
 
 <h3 align="center"><i>PhD student in Genetics and Molecular Biology, Bioinformatician and Data Scientist</i></h3>
 
@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Felitencourt)&nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bitafelipe/)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:febimartins@gmail.com)](mailto:febimartins@gmail.com)&nbsp;&nbsp;
-  
+</div>
 <br>
 
 Description
@@ -28,14 +28,14 @@ Description
 
 * **Machine Learning Deployment:** Flask and Heroku.
 
-## Data Science Projects
+## Projects
 
-* ### [polyCID](https://github.com/lagmunicamp/polycid)
+* ### [An Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.biorxiv.org/content/10.1101/2021.07.01.450796v1.full)
 
-    polyCID is a user-friendly R shiny app based on preprocessed GBS data for detection and classification of putative contaminants in biparental polyploid populations, including apomictic clones, self-fertilization, half-siblings and/or full contaminants individuals. You can explore our simulated data to learn how to interact with the tool, as well as access, modify all datasets and adapt them to your research needs. By going through the workflow below, you will become familiar with all the steps involved in the analysis
+    Artificial hybridization plays a fundamental role in plant breeding programs since it generates new genotypic combinations that can result in desirable phenotypes. Depending on the species and mode of reproduction, controlled crosses may be challenging, and contaminating individuals can be introduced accidentally. In this context, the identification of such contaminants is important to avoid compromising further selection cycles, as well as genetic and genomic studies. The main objective of this work was to propose an automated multivariate methodology for the detection and classification of putative contaminants, including apomictic clones, self-fertilized individuals, half-siblings and full contaminants, in biparental polyploid progenies of tropical forage grasses. We established a pipeline to identify contaminants in genotyping-by-sequencing (GBS) data encoded as allele dosages of single nucleotide polymorphism (SNP) markers by integrating principal component analysis (PCA), genotypic analysis (GA) measures based on Mendelian segregation and clustering analysis (CA). The combination of these methods allowed the correct identification of all contaminants in all simulated progenies and the detection of putative contaminants in three real progenies of tropical forage grasses, providing an easy and promising methodology for the identification of contaminants in biparental progenies of tetraploid and hexaploid species. The proposed pipeline was made available through the <a href="https://github.com/lagmunicamp/polycid" target="_blank">**polyCID**</a> Shiny app and can be easily coupled with traditional genetic approaches, such as linkage map construction, thereby increasing the efficiency of breeding programs.
 
     
-* ### [Transaction Fraud Detection](https://github.com/juniorcl/transaction-fraud-detection)
+* ### [Fraudulent Transaction Detection](https://github.com/juniorcl/transaction-fraud-detection)
 
     Financial transactions fraud is one of the biggest problems faced by financial institutions. Thus, this project uses data science and machine learning to detect and avoid fraudulent transactions. The model got a precision of 96.3% +/- 0.7% and a recall of 76.3% +/- 3.5%. The profit expected by the company is R\$ 57,251,574.44.
 
