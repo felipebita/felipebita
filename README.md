@@ -11,10 +11,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:febimartins@gmail.com)](mailto:febimartins@gmail.com)&nbsp;&nbsp;
 </div>
 
-### Education and Research
+## Education and Research
 I have a bachelor's degree in Biological Science (University of Campinas) and I'm currently working on my PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (University of Campinas). As an undergraduated student I had a FAPESP research scholarship to accomplish a projet in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD studying plant breeding, more specifically molecular breeding methods and tools for polyploids tropical forages. During this time I aquired abilities to obtain, manipulate and analyze genetic and commom data using programming and statistics, furthermore I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems. 
 
-### Analytics Tools
+#### Analytic Tools
 * **Operating system:** Unix(Linux, macOS), Windows
 
 * **Data Processing and Analytics:** SQL, Python and R.
