@@ -11,8 +11,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:febimartins@gmail.com)](mailto:febimartins@gmail.com)&nbsp;&nbsp;
 </div>
 
-<div style="text-align: justify"> Realizou um estágio no Laboratório de Genômica e Proteômica da Unicamp no primeiro semestre de 2012, foi monitor de Biologia (bolsa PADEMT) durante o segundo semestre de 2012 no Colégio Técnico da Unicamp(COTUCA), cursou 2 semestres de Ciências Biológicas na Universidade Federal de Uberlândia(UFU) onde foi bolsista do programa Jovens Talentos para a Ciência, se formou como bacharel em Ciências Biológicas pela Universidade Estadual de Campinas(Unicamp) em 2017 e atualmente está cursando doutorado direto em Genética e Biologia Molecular na mesma instituição . Durante a graduação realizou Iniciação Científica no Laboratório de Análise Genética e Molecular da Unicamp recebendo bolsa FAPESP, tendo como objetivo identificar e caracterizar genes candidatos a cópia única em cana-de-açúcar e no doutorado, no mesmo laboratório, trabalha com espécies de brachiaria com o objetivo de analisar transcriptomas, construir mapas genéticos e estimar GEBVs para seleção genômica.
-</div>
+### Education and Research
+I have a bachelor's degree in Biological Science (University of Campinas) and I'm currently working on my PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (University of Campinas). As an undergraduated student I had a FAPESP research scholarship to accomplish a projet in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD studying plant breeding, more specifically molecular breeding methods and tools for polyploids tropical forages. During this time I aquired abilities to obtain, manipulate and analyze genetic and commom data using programming and statistics, furthermore I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems. 
 
 ### Analytics Tools
 * **Operating system:** Unix(Linux, macOS), Windows
@@ -30,9 +30,9 @@
     Artificial hybridization plays a fundamental role in plant breeding programs since it generates new genotypic combinations that can result in desirable phenotypes. Depending on the species and mode of reproduction, controlled crosses may be challenging, and contaminating individuals can be introduced accidentally. In this context, the identification of such contaminants is important to avoid compromising further selection cycles, as well as genetic and genomic studies. The main objective of this work was to propose an automated multivariate methodology for the detection and classification of putative contaminants, including apomictic clones, self-fertilized individuals, half-siblings and full contaminants, in biparental polyploid progenies of tropical forage grasses. We established a pipeline to identify contaminants in **genotyping-by-sequencing (GBS)** data encoded as **allele dosages of single nucleotide polymorphism (SNP)** markers by integrating **principal component analysis (PCA)**, genotypic analysis (GA) measures based on Mendelian segregation and **clustering analysis (CA)**. The combination of these methods allowed the correct identification of all contaminants in all simulated progenies and the detection of putative contaminants in three real progenies of tropical forage grasses, providing an easy and promising methodology for the identification of contaminants in biparental progenies of tetraploid and hexaploid species. The proposed pipeline was made available through the <a href="https://github.com/lagmunicamp/polycid" target="_blank">**polyCID**</a> Shiny app and can be easily coupled with traditional genetic approaches, such as linkage map construction, thereby increasing the efficiency of breeding programs.
 
     
-* ### [Fraudulent Transaction Detection](https://github.com/juniorcl/transaction-fraud-detection)
+* ### Fraudulent Transaction Detection
 
-    Financial transactions fraud is one of the biggest problems faced by financial institutions. Thus, this project uses data science and machine learning to detect and avoid fraudulent transactions. The model got a precision of 96.3% +/- 0.7% and a recall of 76.3% +/- 3.5%. The profit expected by the company is R\$ 57,251,574.44.
+    
 
 </div>
 
