@@ -15,7 +15,7 @@
 I have a bachelor's degree in Biological Science (University of Campinas) and I'm currently working on my PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (University of Campinas). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD studying plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems.
 
 #### Tools
-* **Operating system:** Unix(Linux, centOS, macOS), Windows
+* **Operating system:** Unix(Linux, centOS, macOS) and Windows
 
 * **Data Processing, Analytics and Visualization:** SQL, Python and R.
 
