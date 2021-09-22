@@ -40,6 +40,7 @@ I have a bachelor's degree in Biological Science (University of Campinas) and I'
 * **(2018) Prediction of Breeding Values in Autotetraploid Forages.** Empresa Brasileira de Pesquisa Agropecuária, EMBRAPA, Brasil (32h hours).
 * **(2018) Statistical Mechanisms and Practical Applications of Genome-Wide Associatio.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8h hours).
 * **(2019) Polyploid Genetic Data Analysis: From Dosage Calling To Linkage.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (21h hours).
+* **(2021) Tools for Genomics-Assisted Breeding in Polyploids: Workshop.** Development of a Community Resource, National Institute of Food and Agriculture, USDA.
 * **(2021) Spring Workshop on Applied Quantitative Genetics for Plant Breeders.** University of Illinois at Urbana-Champaign, USA.
 * **(2021) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8h hours).
 * **(2021) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16h hours) **Course Assistant**.
