@@ -31,7 +31,19 @@ I have a bachelor's degree in Biological Science (University of Campinas) and I'
 * ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection)
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.958 +/- 0.013 and a recall of 0.744 +/- 0.037. Considering the company expansion strategy and the model capacity, for a set of 120.000 transactions, the service would generate a total revenue of $39.309.131, with a mean profit of $330,00 per transaction analyzed.
     
-
+## Complementary Education
+* **(2017) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
+* **(2017) Bioinformatic Winter Course: Workshop.** Universidade Federal de São Paulo, UNIFESP, Brasil (22 hours).
+* **(2018) R Programming by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
+* **(2018) Getting and Cleaning Data by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
+* **(2018) Python for Genomic Data Science by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
+* **(2018) Prediction of Breeding Values in Autotetraploid Forages.** Empresa Brasileira de Pesquisa Agropecuária, EMBRAPA, Brasil (32h hours).
+* **(2018) Statistical Mechanisms and Practical Applications of Genome-Wide Associatio.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8h hours).
+* **(2019) Polyploid Genetic Data Analysis: From Dosage Calling To Linkage.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (21h hours).
+* **(2021) Spring Workshop on Applied Quantitative Genetics for Plant Breeders.** University of Illinois at Urbana-Champaign, USA.
+* **(2021) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8h hours).
+* **(2021) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16h hours) **Course Assistant**.
+* **(2021) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16h hours) **Course Assistant**.
 </div>
 
 <!--
