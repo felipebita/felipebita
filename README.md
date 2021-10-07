@@ -45,6 +45,7 @@ I have a bachelor's degree in Biological Science (University of Campinas) and I'
 * **(2021) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8h hours).
 * **(Course Assistant) (2021) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16h hours).
 * **(Course Assistant) (2021) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16h hours).
+* **(2021) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil. (20 hours)
 </div>
 
 <!--
