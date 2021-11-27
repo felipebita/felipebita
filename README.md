@@ -12,7 +12,7 @@
 </div>
 
 ## Education and Research
-I have a bachelor's degree in Biological Science (State University of Campinas) and I'm currently working on my PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (State University of Campinas). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD studying plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems.
+I have a bachelor's degree in Biological Science (State University of Campinas - UNICAMP) and I'm currently working on my PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (State University of Campinas - UNICAMP). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD studying plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems.
 
 #### Tools
 * **Operating system:** Unix(Linux, centOS, macOS) and Windows
@@ -32,7 +32,8 @@ I have a bachelor's degree in Biological Science (State University of Campinas) 
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.958 +/- 0.013 and a recall of 0.744 +/- 0.037. Considering the company expansion strategy and the model capacity, for a set of 120.000 transactions, the service would generate a total revenue of $39.309.131, with a mean profit of $330,00 per transaction analyzed.
     
 ## Complementary Education
-* **(2021) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil. (20 hours)
+* **(2021) Genomic Selection.** Conecta GEM, Brasil. (6h)
+* **(2021) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil (20 hours).
 * **(Course Assistant) (2021) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16 hours).
 * **(Course Assistant) (2021) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16 hours).
 * **(2021) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8 hours).
@@ -46,6 +47,11 @@ I have a bachelor's degree in Biological Science (State University of Campinas) 
 * **(2018) R Programming by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
 * **(2017) Bioinformatic Winter Course: Workshop.** Universidade Federal de São Paulo, UNIFESP, Brasil (22 hours).
 * **(2017) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
+
+## Lectures
+* ### [Genetic Markers (2019)(pt-br)](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing)
+    This lecture was ministered in the [BV880 - Plant Breeding - 2S/2019](https://www.dac.unicamp.br/portal/caderno-de-horarios/2019/2/S/G/IB/BV880) class for the Biological Sciences course at UNICAMP. It is an introduction about markers (morphological and molecular) with focus on molecular markers,especially the DNA markers. It covers the most common markers (microsatellite and SNP) and it's use in linkage maps and QTL mapping.
+
 </div>
 
 <!--
