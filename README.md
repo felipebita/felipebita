@@ -49,7 +49,7 @@ I have a bachelor's degree in Biological Science (State University of Campinas -
 * **(2017) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
 ## Lectures
-* ### [Genetic Markers (2019)(pt-br)](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing)
+* ### [Genetic Markers (2019)](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing)(pt-br)
     This lecture was ministered in the [BV880 - Plant Breeding - 2S/2019](https://www.dac.unicamp.br/portal/caderno-de-horarios/2019/2/S/G/IB/BV880) class for the Biological Sciences course at UNICAMP. It is an introduction about markers (morphological and molecular) with focus on molecular markers,especially the DNA markers. It covers the most common markers (microsatellite and SNP) and it's use in linkage maps and QTL mapping.
 
 </div>
