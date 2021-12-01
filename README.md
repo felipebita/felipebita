@@ -48,9 +48,11 @@ I have a bachelor's degree in Biological Science (State University of Campinas -
 * **(2017) Bioinformatic Winter Course: Workshop.** Universidade Federal de São Paulo, UNIFESP, Brasil (22 hours).
 * **(2017) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
-## Lectures
-* ### [Genetic Markers](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing)(pt-br)
+## Lectures and Presentations
+* ### [Genetic Markers](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing) (slides)(pt-br)
     This lecture was ministered in the [BV880 - Plant Breeding - 2S/2019](https://www.dac.unicamp.br/portal/caderno-de-horarios/2019/2/S/G/IB/BV880) class for the Biological Sciences course at UNICAMP. It is an introduction about markers (morphological and molecular) with focus on molecular markers,especially the DNA markers. It covers the most common markers (microsatellite and SNP) and it's use in linkage maps and QTL mapping.
+* ### [Genomic Selection](https://drive.google.com/file/d/1mCsgztu_3Aw5fAifUz7Rt2LNbj2TSLjq/view?usp=sharing) (video)(pt-br)
+    This lecture was ministered in the [BV782 - Plant Genetics and Genomics - 1S/2020](https://www.dac.unicamp.br/portal/caderno-de-horarios/2020/1/S/G/IB/BV782) class for the Biological Sciences course at UNICAMP. It is an introduction about Genomic Selection, passing through the famous Meuwissen (2001) article which demonstrate the applicability of dense sets of genetic markers to predict breeding values, how Genomic Selection models are evaluted (Predictive Ability and Cross Validation) and part of my research regarding genomic selection in half-siblings families of *Urochloa ruziziensis* tropical forage.
 
 </div>
 
