@@ -57,6 +57,11 @@ I have a bachelor's degree in Biological Science (State University of Campinas -
 
 * ### [Linear Regression](https://docs.google.com/presentation/d/1R6fViHULsb0LGOy7FC9hUny7v4ktDfaD/edit?usp=sharing&ouid=106210785402829867900&rtpof=true&sd=true) (slides)(en)
     This presentation was constructed as a scheme for my own studies and latter used to teach lab colleagues. It covers the three main topics about Linear Regressions: (1) fit a line to the data; (2) calculate the R² and (3) calculate de F-test.
+    
+* ### [Contaminant Identification in Polyploids](https://drive.google.com/file/d/1K8t9R4DzqFK9VmUHQcnjwUwpBBbcKFyv/view?usp=sharing) (video)(en)
+    Video-poster of the article [A Semi-Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.frontiersin.org/articles/10.3389/fpls.2021.737919/full) submited in the [11º CBPM - Brazilian Congress of Plant Breeding](https://www.cbmp2021.com.br/).
+    
+    
 </div>
 
 <!--
