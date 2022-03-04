@@ -36,8 +36,8 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * **[(2021)](https://drive.google.com/file/d/1ZIkSSqdwMqHPLXytZ0NSW0feyNoTOYC5/view?usp=sharing) Statistical Genetics: Data Analysis for Molecular Breeding.** 11º Congresso Brasileiro de Melhoramento de Plantas - CBMP (3 hours).
 * **[(2021)](https://drive.google.com/file/d/1J_To2U8-gZpB0dQmsQzgyrkFFhBPOulW/view?usp=sharing) Genomic Selection.** Conecta GEM, Brasil. (6h)
 * **[(2021)](https://drive.google.com/file/d/1Kvevj-b6x5IHdW6dMhtx4A4O6vIuMLIC/view?usp=sharing) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil (20 hours).
-* **(Course Assistant) (2021) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16 hours).
-* **(Course Assistant) [(2021)](https://drive.google.com/file/d/15iZMPb9eaEpiupDYq-whndwP1_rwULCC/view?usp=sharing) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16 hours).
+* **(2021) (Course Assistant) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16 hours).
+* **[(2021)](https://drive.google.com/file/d/15iZMPb9eaEpiupDYq-whndwP1_rwULCC/view?usp=sharing) (Course Assistant) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16 hours).
 * **[(2021)](https://drive.google.com/file/d/19EUJxcxSmca0JYPNQ3DkGtgAuT_ugQA0/view?usp=sharing) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8 hours).
 * **(2021) Spring Workshop on Applied Quantitative Genetics for Plant Breeders.** University of Illinois at Urbana-Champaign, USA.
 * **(2021) Tools for Genomics-Assisted Breeding in Polyploids: Workshop.** Development of a Community Resource, National Institute of Food and Agriculture, USDA.
