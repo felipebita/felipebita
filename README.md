@@ -47,8 +47,8 @@ I have a bachelor's degree in Biological Science (State University of Campinas -
 * **(2018) Python for Genomic Data Science by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
 * **(2018) Getting and Cleaning Data by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
 * **(2018) R Programming by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
-* **(2017) Bioinformatic Winter Course: Workshop.** Universidade Federal de São Paulo, UNIFESP, Brasil (22 hours).
-* **(2017) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
+* **[(2017)](https://drive.google.com/file/d/1PkApy5Gi8uClQx5Rq0lpLvsPpv8jLAVQ/view?usp=sharing) Bioinformatic Winter Course: Workshop.** Universidade Federal de São Paulo, UNIFESP, Brasil (22 hours).
+* **[(2017)](https://drive.google.com/file/d/1dtDY171JG3-n6YhZjtS0z5LyYtyUkg87/view?usp=sharing) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
 ## Lectures and Presentations
 * ### [Genetic Markers](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing) (slides)(pt-br)
