@@ -32,21 +32,21 @@ I have a bachelor's degree in Biological Science (State University of Campinas -
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.958 +/- 0.013 and a recall of 0.744 +/- 0.037. Considering the company expansion strategy and the model capacity, for a set of 120.000 transactions, the service would generate a total revenue of $39.309.131, with a mean profit of $330,00 per transaction analyzed.
     
 ## Complementary Education
-* **(2022) Statistics for Biologists in R.** IV GBMeeting - Encontro do Programa de Pós-Graduação em Genética e Biologia Molecular - IB/UNICAMP, Brasil (20h).
-* **(2021) Statistical Genetics: Data Analysis for Molecular Breeding.** 11º Congresso Brasileiro de Melhoramento de Plantas - CBMP (3 hours).
-* **(2021) Genomic Selection.** Conecta GEM, Brasil. (6h)
-* **(2021) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil (20 hours).
+* **[(2022)](https://drive.google.com/file/d/1Z8r9yxfP9AybRhsd3jN1H7vaB_pKk5Wj/view?usp=sharing) Statistics for Biologists in R.** IV GBMeeting - Encontro do Programa de Pós-Graduação em Genética e Biologia Molecular - IB/UNICAMP, Brasil (20h).
+* **[(2021)](https://drive.google.com/file/d/1ZIkSSqdwMqHPLXytZ0NSW0feyNoTOYC5/view?usp=sharing) Statistical Genetics: Data Analysis for Molecular Breeding.** 11º Congresso Brasileiro de Melhoramento de Plantas - CBMP (3 hours).
+* **[(2021)](https://drive.google.com/file/d/1J_To2U8-gZpB0dQmsQzgyrkFFhBPOulW/view?usp=sharing) Genomic Selection.** Conecta GEM, Brasil. (6h)
+* **[(2021)](https://drive.google.com/file/d/1Kvevj-b6x5IHdW6dMhtx4A4O6vIuMLIC/view?usp=sharing) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil (20 hours).
 * **(Course Assistant) (2021) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16 hours).
-* **(Course Assistant) (2021) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16 hours).
-* **(2021) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8 hours).
+* **(Course Assistant) [(2021)](https://drive.google.com/file/d/15iZMPb9eaEpiupDYq-whndwP1_rwULCC/view?usp=sharing) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16 hours).
+* **[(2021)](https://drive.google.com/file/d/19EUJxcxSmca0JYPNQ3DkGtgAuT_ugQA0/view?usp=sharing) Introduction to Machine Learning in Python.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8 hours).
 * **(2021) Spring Workshop on Applied Quantitative Genetics for Plant Breeders.** University of Illinois at Urbana-Champaign, USA.
 * **(2021) Tools for Genomics-Assisted Breeding in Polyploids: Workshop.** Development of a Community Resource, National Institute of Food and Agriculture, USDA.
-* **(2019) Polyploid Genetic Data Analysis: From Dosage Calling To Linkage.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (21 hours).
-* **(2018) Statistical Mechanisms and Practical Applications of Genome-Wide Associatio.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8 hours).
-* **(2018) Prediction of Breeding Values in Autotetraploid Forages.** Empresa Brasileira de Pesquisa Agropecuária, EMBRAPA, Brasil (32 hours).
-* **(2018) Python for Genomic Data Science by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
-* **(2018) Getting and Cleaning Data by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
-* **(2018) R Programming by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
+* **[(2019)](https://drive.google.com/file/d/1fTUxNCU-H9V7-5lfQbLS4Ql7Lm4u47gY/view?usp=sharing) Polyploid Genetic Data Analysis: From Dosage Calling To Linkage.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (21 hours).
+* **[(2018)](https://drive.google.com/file/d/1j9asuhRvHxS7O-qa6QXbE3ln6dP42Lm8/view?usp=sharing) Statistical Mechanisms and Practical Applications of Genome-Wide Associatio.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (8 hours).
+* **[(2018)](https://drive.google.com/file/d/19J92QdIDi-0fcrrW1SJWtYoeCXQts-37/view?usp=sharing) Prediction of Breeding Values in Autotetraploid Forages.** Empresa Brasileira de Pesquisa Agropecuária, EMBRAPA, Brasil (32 hours).
+* **[(2018)](https://drive.google.com/file/d/1HeGfL3v1L-ugDlQieDHvPHUKhUdcEh5o/view?usp=sharing) Python for Genomic Data Science by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
+* **[(2018)](https://drive.google.com/file/d/18OKYGD5EfB4wUOzSXNLKz9LX3kxYh280/view?usp=sharing) Getting and Cleaning Data by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
+* **[(2018)](https://drive.google.com/file/d/1BmGpqLcqb4swR7zJlhL0VPlF6Hc4ad9_/view?usp=sharing) R Programming by Johns Hopkins University on Coursera.** Johns Hopkins University, JHU, Estados Unidos.
 * **[(2017)](https://drive.google.com/file/d/1PkApy5Gi8uClQx5Rq0lpLvsPpv8jLAVQ/view?usp=sharing) Bioinformatic Winter Course: Workshop.** Universidade Federal de São Paulo, UNIFESP, Brasil (22 hours).
 * **[(2017)](https://drive.google.com/file/d/1dtDY171JG3-n6YhZjtS0z5LyYtyUkg87/view?usp=sharing) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
