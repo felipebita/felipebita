@@ -62,7 +62,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * ### Genomic Selection [(video)](https://drive.google.com/file/d/1mCsgztu_3Aw5fAifUz7Rt2LNbj2TSLjq/view?usp=sharing)(pt-br)
     This lecture was ministered in the [BV782 - Plant Genetics and Genomics - 1S/2020](https://www.dac.unicamp.br/portal/caderno-de-horarios/2020/1/S/G/IB/BV782) class for the Biological Sciences course at UNICAMP. It is an introduction about Genomic Selection, passing through the famous Meuwissen (2001) article which demonstrate the applicability of dense sets of genetic markers to predict breeding values, how Genomic Selection models are evaluted (Predictive Ability and Cross Validation) and part of my research regarding genomic selection in half-siblings families of *Urochloa ruziziensis* tropical forage.
 
-* ### Linear Regression] [(slides)](https://docs.google.com/presentation/d/1R6fViHULsb0LGOy7FC9hUny7v4ktDfaD/edit?usp=sharing&ouid=106210785402829867900&rtpof=true&sd=true)(en)
+* ### Linear Regression [(slides)](https://docs.google.com/presentation/d/1R6fViHULsb0LGOy7FC9hUny7v4ktDfaD/edit?usp=sharing&ouid=106210785402829867900&rtpof=true&sd=true)(en)
     This presentation was constructed as a scheme for my own studies and latter used to teach lab colleagues. It covers the three main topics about Linear Regressions: (1) fit a line to the data; (2) calculate the R² and (3) calculate de F-test.    
   
 </div>
