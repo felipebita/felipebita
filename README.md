@@ -51,6 +51,11 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * **[(2017)](https://drive.google.com/file/d/1dtDY171JG3-n6YhZjtS0z5LyYtyUkg87/view?usp=sharing) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
 ## Lectures and Presentations
+* ### Contaminant Identification in Polyploids (videos)(en)
+    [Video-poster](https://drive.google.com/file/d/1K8t9R4DzqFK9VmUHQcnjwUwpBBbcKFyv/view?usp=sharing) of the article [A Semi-Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.frontiersin.org/articles/10.3389/fpls.2021.737919/full) submited in the [11º CBPM - Brazilian Congress of Plant Breeding](https://www.cbmp2021.com.br/).
+    
+    [Complete Presentation](https://www.youtube.com/watch?v=s2i3RN-3FJI) for the [IV GBMeeting - Encontro do Programa de Pós-Graduação em Genética e Biologia Molecular - IB/UNICAMP](https://gbmeetingunicamp.wixsite.com/gbmeeting), this work was awarded [second place](https://drive.google.com/file/d/1ZNiU0DJR6gp9UOYBPMgQW2FgjUXWRg8i/view?usp=sharing) in the Bioinformatics section.
+    
 * ### Genetic Markers [(slides)](https://drive.google.com/file/d/1jXof4E6BPAY00_-0V_jWP3NAH1zdsNeK/view?usp=sharing)(pt-br)
     This slide presentation was used in a lecture ministered in the [BV880 - Plant Breeding - 2S/2019](https://www.dac.unicamp.br/portal/caderno-de-horarios/2019/2/S/G/IB/BV880) class for the Biological Sciences course at UNICAMP. It is an introduction about markers (morphological and molecular) with focus on molecular markers,especially the DNA markers. It covers the most common markers (microsatellite and SNP) and it's use in linkage maps and QTL mapping.
     
@@ -58,14 +63,8 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
     This lecture was ministered in the [BV782 - Plant Genetics and Genomics - 1S/2020](https://www.dac.unicamp.br/portal/caderno-de-horarios/2020/1/S/G/IB/BV782) class for the Biological Sciences course at UNICAMP. It is an introduction about Genomic Selection, passing through the famous Meuwissen (2001) article which demonstrate the applicability of dense sets of genetic markers to predict breeding values, how Genomic Selection models are evaluted (Predictive Ability and Cross Validation) and part of my research regarding genomic selection in half-siblings families of *Urochloa ruziziensis* tropical forage.
 
 * ### Linear Regression] [(slides)](https://docs.google.com/presentation/d/1R6fViHULsb0LGOy7FC9hUny7v4ktDfaD/edit?usp=sharing&ouid=106210785402829867900&rtpof=true&sd=true)(en)
-    This presentation was constructed as a scheme for my own studies and latter used to teach lab colleagues. It covers the three main topics about Linear Regressions: (1) fit a line to the data; (2) calculate the R² and (3) calculate de F-test.
-    
-* ### Contaminant Identification in Polyploids (videos)(en)
-    [Video-poster](https://drive.google.com/file/d/1K8t9R4DzqFK9VmUHQcnjwUwpBBbcKFyv/view?usp=sharing) of the article [A Semi-Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.frontiersin.org/articles/10.3389/fpls.2021.737919/full) submited in the [11º CBPM - Brazilian Congress of Plant Breeding](https://www.cbmp2021.com.br/).
-    
-    [Complete Presentation](https://www.youtube.com/watch?v=s2i3RN-3FJI) for the [IV GBMeeting - Encontro do Programa de Pós-Graduação em Genética e Biologia Molecular - IB/UNICAMP](https://gbmeetingunicamp.wixsite.com/gbmeeting), this work was awarded [second place](https://drive.google.com/file/d/1ZNiU0DJR6gp9UOYBPMgQW2FgjUXWRg8i/view?usp=sharing) in the Bioinformatics section.
-    
-    
+    This presentation was constructed as a scheme for my own studies and latter used to teach lab colleagues. It covers the three main topics about Linear Regressions: (1) fit a line to the data; (2) calculate the R² and (3) calculate de F-test.    
+  
 </div>
 
 <!--
