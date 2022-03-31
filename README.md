@@ -20,7 +20,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * **Data Processing, Analytics and Visualization:** SQL, Python and R.
 
 * **Machine Learning Modeling:** Classification, Regression and Clustering.
-
+        
 ## Projects
 
 * ### [A Semi-Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.frontiersin.org/articles/10.3389/fpls.2021.737919/full)
@@ -64,7 +64,28 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 
 * ### Linear Regression [(slides)](https://docs.google.com/presentation/d/1R6fViHULsb0LGOy7FC9hUny7v4ktDfaD/edit?usp=sharing&ouid=106210785402829867900&rtpof=true&sd=true)(en)
     This presentation was constructed as a scheme for my own studies and latter used to teach lab colleagues. It covers the three main topics about Linear Regressions: (1) fit a line to the data; (2) calculate the R² and (3) calculate de F-test.    
-  
+
+## About me
+
+### Setup
+
+        Desktop
+        Motherboard: Aorus Z370M
+        CPU: Intel Core i5 8400
+        RAM: Corsair Vengeance LPX 8GB (2x4GB) 3000Mhz 
+        Disk: SSD Kingston 2.5´ 240GB A400 ; 
+        Graphics: Asus GeForce GTX 1060 OC 6GB GDDR5 Rog Strix 192-BIT
+        Monitor: 24in 144hz Acer GN246HL; 24in IPS Philips 242V8A
+        Keyboard: HyperX Mars
+        Mouse: Logitech G403H
+        Microfone: Blue Snowball
+        
+        Laptop
+        Apple MacBook Pro: 13in 2017
+        CPU: Intel Core i5 7360U
+        RAM: LPDDR3 8 GB 2133 MHz
+        Disk: 256 GB SSD
+        
 </div>
 
 <!--
