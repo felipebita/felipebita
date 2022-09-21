@@ -82,7 +82,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
         Monitor: 24in 144hz Acer GN246HL; 24in IPS Philips 242V8A
         Keyboard: HyperX Mars
         Mouse: Logitech G403H
-        Microfone: Blue Snowball
+        Microphone: Blue Snowball
         
         Laptop
         Apple MacBook Pro: 13in 2017
