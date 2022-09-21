@@ -19,7 +19,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 
 * **Data Processing, Analytics and Visualization:** SQL, Python and R.
 
-* **Machine Learning Modeling:** Classification, Regression and Clustering.
+* **Machine Learning:** Classification, Regression, Clustering and Dimensionality Reduction.
         
 ## Projects
 
