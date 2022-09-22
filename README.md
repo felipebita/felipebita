@@ -73,7 +73,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * ### Linear Regression [(slides)](https://docs.google.com/presentation/d/1R6fViHULsb0LGOy7FC9hUny7v4ktDfaD/edit?usp=sharing&ouid=106210785402829867900&rtpof=true&sd=true)(en)
     This presentation was constructed as a scheme for my own studies and latter used to teach lab colleagues. It covers the three main topics about Linear Regressions: (1) fit a line to the data; (2) calculate the R² and (3) calculate de F-test.    
 
-## Working setup
+## Working Setup
 
         Desktop
         Motherboard: Aorus Z370M
