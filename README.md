@@ -34,7 +34,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 
     
 * ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection)
-    Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.958 +/- 0.013 and a recall of 0.744 +/- 0.037. Considering the company expansion strategy and the model capacity, for a set of 120.000 transactions, the service would generate a total revenue of $39.309.131, with a mean profit of $330,00 per transaction analyzed.
+    Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
 ## Complementary Education
 * **[(2022)](https://drive.google.com/file/d/1_PbUQDuUX4vYgsoRCaBcq1fu_smYJn5y/view?usp=sharing) Introduction to SQL.** Datacamp (4 hours).
