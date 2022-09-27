@@ -83,11 +83,11 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 
 ## Working Setup
 
-        Desktop                                                                                   Laptop                
-        Motherboard: Aorus Z370M                                                                  Apple MacBook Pro: 13in 2017
-        CPU: Intel Core i5 8400                                                                   CPU: Intel Core i5 7360U
-        RAM: Corsair Vengeance LPX 8GB (2x4GB) 3000Mhz                                            RAM: LPDDR3 8 GB 2133 MHz
-        Disk: SSD Kingston 2.5´ 240GB A400; Seagate Exp. Port. Drive 2TB                          Disk: 256 GB SSD 
+        Desktop                                                                                Laptop                
+        Motherboard: Aorus Z370M                                                               Apple MacBook Pro: 13in 2017
+        CPU: Intel Core i5 8400                                                                CPU: Intel Core i5 7360U
+        RAM: Corsair Vengeance LPX 8GB (2x4GB) 3000Mhz                                         RAM: LPDDR3 8 GB 2133 MHz
+        Disk: SSD Kingston 2.5´ 240GB A400; Seagate Exp. Port. Drive 2TB                       Disk: 256 GB SSD 
         Graphics: Asus GeForce GTX 1060 OC 6GB GDDR5 Rog Strix 192-BIT
         Monitor: 24in 144hz Acer GN246HL; 24in IPS Philips 242V8A
         Keyboard: HyperX Mars
