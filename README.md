@@ -15,19 +15,19 @@
 I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbaeYL_SpZDoFVsdbc/view?usp=sharing) in Biological Science (State University of Campinas - UNICAMP) and I'm currently working on my PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (State University of Campinas - UNICAMP). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD studying plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems.
 
 ## Skills
-        Data Science                                      Research                                            Microsoft Windows
-        Data Analysis                                     Bioinformatics                                      Apple Mac
-        Data Mining                                       Computational Biology                               Linux
-        Data Visualization                                Genetics                                            Ubuntu
-        Statistics                                        Plant Genetics                                      CentOS
-        Machine Learning                                  Plant Breeding
-        Python                                            Genomic Data
-        R                                                 Genotyping
-        SQL                                               Molecular Markers
-        GitHub                                            GBS
-        Microsoft PowerPoint                              Transcriptome
-        Microsoft Excel                                   Simulation
-        Microsoft Word                                    Teaching
+        Data Science                                     Research                                           Microsoft Windows
+        Data Analysis                                    Bioinformatics                                     Apple Mac
+        Data Mining                                      Computational Biology                              Linux
+        Data Visualization                               Genetics                                           Ubuntu
+        Statistics                                       Plant Genetics                                     CentOS
+        Machine Learning                                 Plant Breeding
+        Python                                           Genomic Data
+        R                                                Genotyping
+        SQL                                              Molecular Markers
+        GitHub                                           GBS
+        Microsoft PowerPoint                             Transcriptome
+        Microsoft Excel                                  Simulation
+        Microsoft Word                                   Teaching
 ## Projects
 
 * ### [Insights into the Regulation of Agronomic Traits in _U. ruziziensis_ Through Multi-omics Data Integration](https://drive.google.com/file/d/1EQoMBI_S97q8Ij12aUPFb-UAPekSEIcZ/view?usp=sharing)
@@ -83,11 +83,11 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 
 ## Working Setup
 
-        Desktop                                                                                      Laptop                
-        Motherboard: Aorus Z370M                                                                     Apple MacBook Pro: 13in 2017
-        CPU: Intel Core i5 8400                                                                      CPU: Intel Core i5 7360U
-        RAM: Corsair Vengeance LPX 8GB (2x4GB) 3000Mhz                                               RAM: LPDDR3 8 GB 2133 MHz
-        Disk: SSD Kingston 2.5´ 240GB A400; Seagate Exp. Port. Drive 2TB                             Disk: 256 GB SSD 
+        Desktop                                                                                   Laptop                
+        Motherboard: Aorus Z370M                                                                  Apple MacBook Pro: 13in 2017
+        CPU: Intel Core i5 8400                                                                   CPU: Intel Core i5 7360U
+        RAM: Corsair Vengeance LPX 8GB (2x4GB) 3000Mhz                                            RAM: LPDDR3 8 GB 2133 MHz
+        Disk: SSD Kingston 2.5´ 240GB A400; Seagate Exp. Port. Drive 2TB                          Disk: 256 GB SSD 
         Graphics: Asus GeForce GTX 1060 OC 6GB GDDR5 Rog Strix 192-BIT
         Monitor: 24in 144hz Acer GN246HL; 24in IPS Philips 242V8A
         Keyboard: HyperX Mars
