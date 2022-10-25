@@ -44,6 +44,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
 ## Complementary Education
+* **[(2022]](https://drive.google.com/file/d/1ai6LwEgR57ljlLUYnnVNlXejyzdhYtuA/view) AWS Cloud Concepts.** Datacamp (2 hours)
 * **[(2022)](https://drive.google.com/file/d/1aUCvCw1mN-ksYgQSeUOPcFEJ_od1Eajs/view?usp=sharing) Intermediate SQL Queries.** Datacamp (4 hours).
 * **[(2022)](https://drive.google.com/file/d/1Z8r9yxfP9AybRhsd3jN1H7vaB_pKk5Wj/view?usp=sharing) Statistics for Biologists in R.** IV GBMeeting - Encontro do Programa de Pós-Graduação em Genética e Biologia Molecular - IB/UNICAMP, Brasil (20 hours).
 * **[(2021)](https://drive.google.com/file/d/1ZIkSSqdwMqHPLXytZ0NSW0feyNoTOYC5/view?usp=sharing) Statistical Genetics: Data Analysis for Molecular Breeding.** 11º Congresso Brasileiro de Melhoramento de Plantas - CBMP (3 hours).
