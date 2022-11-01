@@ -25,9 +25,11 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
         R                                                Genotyping
         SQL                                              Molecular Markers
         GitHub                                           GBS
-        Microsoft PowerPoint                             Transcriptome
-        Microsoft Excel                                  Simulation
-        Microsoft Word                                   Teaching
+        AWS                                              Transcriptome
+        Microsoft PowerPoint                             Simulation
+        Microsoft Excel                                  Teaching
+        Microsoft Word                                   
+        
 ## Scientific Production and Projects
 
 * ### [Insights into the Regulation of Agronomic Traits in _U. ruziziensis_ Through Multi-omics Data Integration](https://drive.google.com/file/d/1EQoMBI_S97q8Ij12aUPFb-UAPekSEIcZ/view?usp=sharing)
