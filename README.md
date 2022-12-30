@@ -71,6 +71,9 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * **[(2017)](https://drive.google.com/file/d/1dtDY171JG3-n6YhZjtS0z5LyYtyUkg87/view?usp=sharing) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
 ## Lectures and Presentations
+* ### (PhD defense presentation) Contaminant identification and multiomic analysis applied in polyploid tropical forage grasses molecular breeding [(slides)](https://drive.google.com/file/d/1avUpwH16_cMy_DZk7N3cYd0LzD9HfED8/view?usp=sharing)(en)
+    
+
 * ### Contaminant Identification in Polyploids (videos)(en)
     [Video-poster](https://drive.google.com/file/d/1K8t9R4DzqFK9VmUHQcnjwUwpBBbcKFyv/view?usp=sharing) of the article [A Semi-Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.frontiersin.org/articles/10.3389/fpls.2021.737919/full) submited in the [11º CBPM - Brazilian Congress of Plant Breeding](https://www.cbmp2021.com.br/).
     
