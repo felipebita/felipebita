@@ -16,20 +16,19 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
-        Data Analysis                                    Bioinformatics                                     Apple Mac
-        Data Mining                                      Computational Biology                              Linux
+        Data Analysis                                    Bioinformatics                                     Linux
+        Data Mining                                      Computational Biology                              Apple Mac
         Data Visualization                               Genetics                                           Ubuntu
         Statistics                                       Plant Genetics                                     CentOS
-        Machine Learning                                 Plant Breeding
+        Machine Learning                                 Plant Breeding                                     
         Python                                           Genomic Data
         R                                                Genotyping
         SQL                                              Molecular Markers
         GitHub                                           GBS
         AWS                                              Transcriptome
-        Microsoft PowerPoint                             Simulation
-        Microsoft Excel                                  Teaching
-        Microsoft Word                                   
-        
+        Spark                                            Simulation
+        Microsoft Office                                 Teaching
+                                          
 ## Scientific Production and Projects
 
 * ### [Insights into the Regulation of Agronomic Traits in _U. ruziziensis_ Through Multi-omics Data Integration](https://drive.google.com/file/d/1EQoMBI_S97q8Ij12aUPFb-UAPekSEIcZ/view?usp=sharing)
