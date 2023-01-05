@@ -70,7 +70,8 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * **[(2017)](https://drive.google.com/file/d/1dtDY171JG3-n6YhZjtS0z5LyYtyUkg87/view?usp=sharing) Bioinformatic Analysis of NGS Data.** Sociedade Brasileira de Genética, SBG, Brasil (3 hours).
 
 ## Lectures and Presentations
-* ### (PhD defense presentation) Contaminant identification and multiomic analysis applied in polyploid tropical forage grasses molecular breeding [(slides)](https://drive.google.com/file/d/1avUpwH16_cMy_DZk7N3cYd0LzD9HfED8/view?usp=sharing)(en)
+* ### PhD Defense Presentation [(slides)](https://drive.google.com/file/d/1avUpwH16_cMy_DZk7N3cYd0LzD9HfED8/view?usp=sharing)(en)
+    Contaminant identification and multiomic analysis applied in polyploid tropical forage grasses molecular breeding 
     
 
 * ### Contaminant Identification in Polyploids (videos)(en)
