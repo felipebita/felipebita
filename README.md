@@ -1,6 +1,6 @@
-<h1 align="center">Felipe Bitencourt Martins</h1>
+<h1 align="center">Dr. Felipe Bitencourt Martins</h1>
 
-<h3 align="center"><i>PhD student in Genetics and Molecular Biology, Bioinformatician and Data Scientist</i></h3>
+<h3 align="center"><i>Data Scientist and Bioinformatician</i></h3>
 
 <div align="center">
 
