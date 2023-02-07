@@ -27,7 +27,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
         GitHub                                           GBS
         AWS                                              Transcriptome
         Spark                                            Simulation
-        Microsoft Office                                 Teaching
+        Microsoft Office/Power BI                        Teaching
                                           
 ## Scientific Production and Projects
 
@@ -45,6 +45,8 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
 ## Complementary Education
+* **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (4 hours)
+* **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (4 hours)
 * **[(2023)](https://drive.google.com/file/d/1c_2EdtVxgXGfd70KhM7FDPNFSfVsYz1q/view?usp=sharing) Cleaning Data with PySpark.** Datacamp (4 hours)
 * **[(2022)](https://drive.google.com/file/d/1b7ohhfAYRzKhiNE2pfllhxDBx4mCD4Ly/view?usp=sharing) Big Data Fundamentals with PySpark.** Datacamp (4 hours)
 * **[(2022)](https://drive.google.com/file/d/1b7bKvgzZeCIG-_RekUcwUzVasjJUikP0/view?usp=sharing) Introduction to PySpark.** Datacamp (4 hours)
