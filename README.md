@@ -47,6 +47,7 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 ## Complementary Education
 * **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (2 hours)
 * **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (3 hours)
+* **[(2023)](https://drive.google.com/file/d/1dkrZnh_2qZGO4s10hefiMNRckbPEnuN_/view?usp=sharing) Feature Engineering with PySpark .** Datacamp (4 hours)
 * **[(2023)](https://drive.google.com/file/d/1c_2EdtVxgXGfd70KhM7FDPNFSfVsYz1q/view?usp=sharing) Cleaning Data with PySpark.** Datacamp (4 hours)
 * **[(2022)](https://drive.google.com/file/d/1b7ohhfAYRzKhiNE2pfllhxDBx4mCD4Ly/view?usp=sharing) Big Data Fundamentals with PySpark.** Datacamp (4 hours)
 * **[(2022)](https://drive.google.com/file/d/1b7bKvgzZeCIG-_RekUcwUzVasjJUikP0/view?usp=sharing) Introduction to PySpark.** Datacamp (4 hours)
