@@ -14,7 +14,7 @@
 ## Education and Research
 I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbaeYL_SpZDoFVsdbc/view?usp=sharing) in Biological Sciences (State University of Campinas - UNICAMP) and a PhD in [Genetics and Molecular Biology](https://site2.ib.unicamp.br/pos_genetica_molec/en/node/129) (State University of Campinas - UNICAMP). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD to study plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying Machine Learning algorithms to enhance plant breeding results and resolve business problems.
 
-[Curriculum vitae](https://drive.google.com/file/d/1d_tAGxj9vLSFaJFw3gFzICKHhcO40xoE/view?usp=sharing)
+[Curriculum vitae](https://drive.google.com/file/d/1djEAULOTYeq2MUAB_FCemdrv0SvCXmYa/view?usp=sharing)
 
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
