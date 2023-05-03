@@ -44,7 +44,12 @@ I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbae
 * ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection)
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
+* ### [Optimizing Online Sports Retail Revenue](https://github.com/felipebita/optimizing_online_sports_retail_revenue)
+    In this SQL project, I had the opportunity to analyze product data for an online sports retail company. Working with pricing, revenue, ratings, reviews, descriptions, and website traffic data, I applied techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to optimize revenue. The project involved various tasks, including counting missing values, comparing pricing, labeling price ranges, evaluating average discounts by brand, analyzing the correlation between revenue and reviews, and investigating the effect of product description length on ratings and reviews. I also evaluated the performance of footwear and clothing products separately by exploring reviews by month and brand. Through this project, I was able to showcase my data analysis skills and gained valuable experience working with complex datasets.
+    
+    
 ## Complementary Education
+* **[(2023)](https://drive.google.com/file/d/1f2ZI09B8BYWaFT6ncFecinABF6czzGEh/view?usp=sharing) Joining Data in SQL.** Datacamp (4 hours)
 * **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (2 hours)
 * **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (3 hours)
 * **[(2023)](https://drive.google.com/file/d/1dkrZnh_2qZGO4s10hefiMNRckbPEnuN_/view?usp=sharing) Feature Engineering with PySpark .** Datacamp (4 hours)
