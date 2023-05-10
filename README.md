@@ -49,6 +49,9 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     
     
 ## Complementary Education
+* **[(2023)](https://drive.google.com/file/d/1fE8Co0DhhD5d7PjjF6Omssukq8QHg2ki/view?usp=sharing) Introduction to Fintech.** Corporate Finance Institute (1 hour)
+* **[(2023)](https://drive.google.com/file/d/1fC8GL19hZNDbyOoZJTXCHxORk2YSSPKg/view?usp=sharing) Introduction to Banking.** Corporate Finance Institute (2 hours)
+* **[(2023)](https://drive.google.com/file/d/1fC7reen0sIIOae-Ap_XH9LWZc8kyZZzt/view?usp=sharing) Data Manipulation in SQL.** Datacamp (4 hours)
 * **[(2023)](https://drive.google.com/file/d/1f2ZI09B8BYWaFT6ncFecinABF6czzGEh/view?usp=sharing) Joining Data in SQL.** Datacamp (4 hours)
 * **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (2 hours)
 * **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (3 hours)
