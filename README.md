@@ -50,6 +50,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     
 ## Complementary Education
 * **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours)
+* **[(2023)](https://drive.google.com/file/d/103VFi3z0LpAzpDRTPs-gt-lttj9WQ7i0/view?usp=sharing) Fundamentals of Credit.** Corporate FInance Institute (2 hour)
 * **[(2023)](https://drive.google.com/file/d/1fE8Co0DhhD5d7PjjF6Omssukq8QHg2ki/view?usp=sharing) Introduction to Fintech.** Corporate Finance Institute (1 hour)
 * **[(2023)](https://drive.google.com/file/d/1fC8GL19hZNDbyOoZJTXCHxORk2YSSPKg/view?usp=sharing) Introduction to Banking.** Corporate Finance Institute (2 hours)
 * **[(2023)](https://drive.google.com/file/d/1fC7reen0sIIOae-Ap_XH9LWZc8kyZZzt/view?usp=sharing) Data Manipulation in SQL.** Datacamp (4 hours)
