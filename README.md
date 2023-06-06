@@ -11,11 +11,22 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:febimartins@gmail.com)](mailto:febimartins@gmail.com)&nbsp;&nbsp;
 </div>
 
-## Education and Research
+## Introduction
 I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbaeYL_SpZDoFVsdbc/view?usp=sharing) in Biological Sciences (State University of Campinas - UNICAMP) and a [doctorate](https://drive.google.com/file/d/1eFqxvjoPIK_hLVHvzAQMOeChNmGcpaj4/view?usp=sharing) in Genetics and Molecular Biology - Bioinformatics (State University of Campinas - UNICAMP). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD to study plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying data science techniques to enhance plant breeding results and resolve business problems.
 
 Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM4DCiBZ8ch/view?usp=sharing)  [(PTBR)](https://drive.google.com/file/d/1djEAULOTYeq2MUAB_FCemdrv0SvCXmYa/view?usp=sharing)
 
+## Education
+    2018 - 2022   Doctorate in Genetics and Molecular Biology - Bioinformatics
+                  State University of Campinas - Unicamp - Brazil
+                  Title: Contaminant Identification And Multi-omic Analysis Applied In Polyploid Tropical Forage Grasses Molecular Breeding
+                  Supervisor: Anete Pereira de Souza
+                        
+    2014 - 2017   Bachelor in Biological Sciences - Bioinformatics
+                  Title: Identification And Characterization Of Single Copy Candidate Genes In Sugarcane
+                  State University of Campinas - Unicamp - Brazil
+                  Supervisor: Anete Pereira Souza
+                        
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
         Data Analysis                                    Bioinformatics                                     Linux
