@@ -27,7 +27,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 * **2014 - 2017**
     * **Bachelor in Biological Sciences - Bioinformatics** [:arrow_forward:](https://drive.google.com/file/d/1pI8eVAobot_1tvGbaeYL_SpZDoFVsdbc/view?usp=sharing)
     * State University of Campinas - Unicamp - Brazil
-    * [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html)
+    * Laboratory of Genetic and Molecular Analysis [:arrow_forward:](https://lagm.cbmeg.unicamp.br/en/index.html)
     * Title: Identification And Characterization Of Single Copy Candidate Genes In Sugarcane
     * Supervisor: Anete Pereira de Souza [:arrow_forward:](https://www.linkedin.com/in/anete-pereira-de-souza-40728b67/) 
                                    
