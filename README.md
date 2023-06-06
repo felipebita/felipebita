@@ -12,22 +12,25 @@
 </div>
 
 ## Introduction
-I have a [bachelor's degree](https://drive.google.com/file/d/1pI8eVAobot_1tvGbaeYL_SpZDoFVsdbc/view?usp=sharing) in Biological Sciences (State University of Campinas - UNICAMP) and a [doctorate](https://drive.google.com/file/d/1eFqxvjoPIK_hLVHvzAQMOeChNmGcpaj4/view?usp=sharing) in Genetics and Molecular Biology - Bioinformatics (State University of Campinas - UNICAMP). As an undergraduate student I had a FAPESP research scholarship to accomplish a project in the [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html) where I investigated single copy genes in sugarcane using bioinformatic tools. In the same laboratory I started my PhD to study plant breeding, more specifically molecular breeding methods and tools for polyploid species. During this time I acquired abilities to obtain, manipulate and analyze genetic and common data using programming and statistics. Furthermore, I have been studying data science techniques to enhance plant breeding results and resolve business problems.
+Analytical and investigative profile with good teamwork skills. I have six years of experience in data analysis for genetics/plant breeding projects. During this period, I have gained skills in programming (R and Python), statistical analysis/modeling, machine learning, project development, technical writing, and storytelling. In addition to these skills, I have knowledge of Spark, SQL, GitHub, and PowerBI. My portfolio (on Git) contains a complete description of my academic projects, study projects, certifications, and lectures/presentations. I am currently transitioning my career to fields related to business, finance and banking.
 
 Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM4DCiBZ8ch/view?usp=sharing)  [(PTBR)](https://drive.google.com/file/d/1djEAULOTYeq2MUAB_FCemdrv0SvCXmYa/view?usp=sharing)
 
 ## Education
-    2018 - 2022   Doctorate in Genetics and Molecular Biology - Bioinformatics
-                  State University of Campinas - Unicamp - Brazil
-                  Title: Contaminant Identification And Multi-omic Analysis Applied In Polyploid Tropical Forage
-                         Grasses Molecular Breeding
-                  Supervisor: Anete Pereira de Souza
-                        
-    2014 - 2017   Bachelor in Biological Sciences - Bioinformatics
-                  Title: Identification And Characterization Of Single Copy Candidate Genes In Sugarcane
-                  State University of Campinas - Unicamp - Brazil
-                  Supervisor: Anete Pereira Souza
-                        
+* **2018 - 2022**
+    * **Doctorate in Genetics and Molecular Biology - Bioinformatics** [:arrow_forward:](https://drive.google.com/file/d/1eFqxvjoPIK_hLVHvzAQMOeChNmGcpaj4/view?usp=sharing)
+    * State University of Campinas - Unicamp - Brazil 
+    * Laboratory of Genetic and Molecular Analysis [:arrow_forward:](https://lagm.cbmeg.unicamp.br/en/index.html)
+    * Title: Contaminant Identification And Multi-omic Analysis Applied In Polyploid Tropical Forage Grasses Molecular Breeding [:arrow_forward:](https://drive.google.com/file/d/1dl5jDmfgOPFXDuvZrtiKm5g9yIiE0QXt/view?usp=sharing)
+    * Supervisor: Anete Pereira de Souza [:arrow_forward:](https://www.linkedin.com/in/anete-pereira-de-souza-40728b67/)
+                     
+* **2014 - 2017**
+    * **Bachelor in Biological Sciences - Bioinformatics** [:arrow_forward:](https://drive.google.com/file/d/1pI8eVAobot_1tvGbaeYL_SpZDoFVsdbc/view?usp=sharing)
+    * State University of Campinas - Unicamp - Brazil
+    * [Laboratory of Genetic and Molecular Analysis](https://lagm.cbmeg.unicamp.br/en/index.html)
+    * Title: Identification And Characterization Of Single Copy Candidate Genes In Sugarcane
+    * Supervisor: Anete Pereira de Souza [:arrow_forward:](https://www.linkedin.com/in/anete-pereira-de-souza-40728b67/) 
+                                   
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
         Data Analysis                                    Bioinformatics                                     Linux
