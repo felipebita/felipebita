@@ -19,7 +19,8 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 ## Education
     2018 - 2022   Doctorate in Genetics and Molecular Biology - Bioinformatics
                   State University of Campinas - Unicamp - Brazil
-                  Title: Contaminant Identification And Multi-omic Analysis Applied In Polyploid Tropical Forage Grasses Molecular Breeding
+                  Title: Contaminant Identification And Multi-omic Analysis Applied In Polyploid Tropical Forage
+                         Grasses Molecular Breeding
                   Supervisor: Anete Pereira de Souza
                         
     2014 - 2017   Bachelor in Biological Sciences - Bioinformatics
