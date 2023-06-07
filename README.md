@@ -64,7 +64,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 * ### [Optimizing Online Sports Retail Revenue](https://github.com/felipebita/optimizing_online_sports_retail_revenue) (SQL)
     In this SQL project, I had the opportunity to analyze product data for an online sports retail company. Working with pricing, revenue, ratings, reviews, descriptions, and website traffic data, I applied techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to optimize revenue. The project involved various tasks, including counting missing values, comparing pricing, labeling price ranges, evaluating average discounts by brand, analyzing the correlation between revenue and reviews, and investigating the effect of product description length on ratings and reviews. I also evaluated the performance of footwear and clothing products separately by exploring reviews by month and brand. Through this project, I was able to showcase my data analysis skills and gained valuable experience working with complex datasets.
 
-* ### Digital Plataform Sales Data Analysis (SQL)
+* ### [Digital Plataform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL)
     
 ## Complementary Education
 * **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours)
