@@ -16,6 +16,21 @@ Analytical and investigative profile with good teamwork skills. I have six years
 
 Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM4DCiBZ8ch/view?usp=sharing)  [(PTBR)](https://drive.google.com/file/d/1djEAULOTYeq2MUAB_FCemdrv0SvCXmYa/view?usp=sharing)
 
+## Skills
+        Data Science                                     Research                                           Microsoft Windows
+        Data Analysis                                    Bioinformatics                                     Linux
+        Data Mining                                      Computational Biology                              Apple Mac
+        Data Visualization                               Genetics                                           Ubuntu
+        Statistics                                       Plant Genetics                                     CentOS
+        Machine Learning                                 Plant Breeding                                     
+        Python                                           Genomic Data
+        R                                                Genotyping
+        SQL                                              Molecular Markers
+        GitHub                                           GBS
+        AWS                                              Transcriptome
+        Spark                                            Simulation
+        Microsoft Office/Power BI                        Teaching
+
 ## Education
 * **2018 - 2022**
     * **Doctorate in Genetics and Molecular Biology - Bioinformatics** [:arrow_forward:](https://drive.google.com/file/d/1eFqxvjoPIK_hLVHvzAQMOeChNmGcpaj4/view?usp=sharing)
@@ -31,21 +46,6 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     * Title: Identification And Characterization Of Single Copy Candidate Genes In Sugarcane
     * Supervisor: Anete Pereira de Souza [:arrow_forward:](https://www.linkedin.com/in/anete-pereira-de-souza-40728b67/) 
                                    
-## Skills
-        Data Science                                     Research                                           Microsoft Windows
-        Data Analysis                                    Bioinformatics                                     Linux
-        Data Mining                                      Computational Biology                              Apple Mac
-        Data Visualization                               Genetics                                           Ubuntu
-        Statistics                                       Plant Genetics                                     CentOS
-        Machine Learning                                 Plant Breeding                                     
-        Python                                           Genomic Data
-        R                                                Genotyping
-        SQL                                              Molecular Markers
-        GitHub                                           GBS
-        AWS                                              Transcriptome
-        Spark                                            Simulation
-        Microsoft Office/Power BI                        Teaching
-                                          
 ## Scientific Production and Projects
 
 * ### [Insights into the Regulation of Agronomic Traits in _U. ruziziensis_ Through Multi-omics Data Integration](https://drive.google.com/file/d/1dl5jDmfgOPFXDuvZrtiKm5g9yIiE0QXt/view?usp=sharing) (pg.62) [(Flowchart)](https://drive.google.com/file/d/1EQoMBI_S97q8Ij12aUPFb-UAPekSEIcZ/view?usp=sharing) (ML, Networks, R, Python)
