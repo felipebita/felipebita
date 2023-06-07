@@ -58,13 +58,13 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 * ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection) (ML, Python)
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
-* ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python)
+* ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python) (NotFinished)
     Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. By accurately predicting credit risk, these institutions can make informed decisions regarding lending, determine appropriate interest rates, and maintain a balanced loan portfolio. Effective credit risk analysis not only minimizes financial losses but also contributes to the stability of the financial system as a whole.    
     
 * ### [Optimizing Online Sports Retail Revenue](https://github.com/felipebita/optimizing_online_sports_retail_revenue) (SQL)
     In this SQL project, I had the opportunity to analyze product data for an online sports retail company. Working with pricing, revenue, ratings, reviews, descriptions, and website traffic data, I applied techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to optimize revenue. The project involved various tasks, including counting missing values, comparing pricing, labeling price ranges, evaluating average discounts by brand, analyzing the correlation between revenue and reviews, and investigating the effect of product description length on ratings and reviews. I also evaluated the performance of footwear and clothing products separately by exploring reviews by month and brand. Through this project, I was able to showcase my data analysis skills and gained valuable experience working with complex datasets.
 
-* ### [Digital Plataform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL)
+* ### [Digital Plataform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL) (NotFinished)
     
 ## Complementary Education
 * **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours)
