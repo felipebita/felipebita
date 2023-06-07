@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:febimartins@gmail.com)](mailto:febimartins@gmail.com)&nbsp;&nbsp;
 </div>
 
-## Introduction
+## About Me
 Analytical and investigative profile with good teamwork skills. I have six years of experience in data analysis for genetics/plant breeding projects. During this period, I have gained skills in programming (R and Python), statistical analysis/modeling, machine learning, project development, technical writing, and storytelling. In addition to these skills, I have knowledge of Spark, SQL, GitHub, and PowerBI. My portfolio (on Git) contains a complete description of my academic projects, study projects, certifications, and lectures/presentations. I am currently transitioning my career to fields related to business, finance and banking.
 
 Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM4DCiBZ8ch/view?usp=sharing)  [(PTBR)](https://drive.google.com/file/d/1djEAULOTYeq2MUAB_FCemdrv0SvCXmYa/view?usp=sharing)
