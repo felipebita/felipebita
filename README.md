@@ -1,4 +1,4 @@
-<h1 align="center">Dr. Felipe Martins</h1>
+<h1 align="center">Felipe Martins, PhD</h1>
 
 <h3 align="center"><i>Data Scientist and Bioinformatician</i></h3>
 
