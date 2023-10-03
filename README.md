@@ -69,32 +69,32 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     In this SQL project, I had the opportunity to analyze product data for an online sports retail company. Working with pricing, revenue, ratings, reviews, descriptions, and website traffic data, I applied techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to optimize revenue. The project involved various tasks, including counting missing values, comparing pricing, labeling price ranges, evaluating average discounts by brand, analyzing the correlation between revenue and reviews, and investigating the effect of product description length on ratings and reviews. I also evaluated the performance of footwear and clothing products separately by exploring reviews by month and brand. Through this project, I was able to showcase my data analysis skills and gained valuable experience working with complex datasets.
    
 ## Complementary Education
-* **[(2023)](https://drive.google.com/file/d/1SycPtxT4I5hf2ObVUY_CwGeW1WuqHYDF/view) Data Preparation in Excel.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1Syb8_y4ZpRm4lhorvtqn_T6GOoMq1lt6/view) Introduction to Excel.** Datacamp (3 hours)
-* **[(2023)](https://drive.google.com/file/d/1I6tInUNcW5lWgpTLCI6BqNQ_Zf1Df5kR/view?usp=sharing) Web Scraping in Python.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1GmYct5MRrJT8QT2TguQhStXsKtt1XhRa/view) Machine Learning for Time Series Data in Python.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1FZwmjYGqaxuauh4aOThteQh0Klc-QiiS/view?usp=sharing) ARIMA models in Python.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1FKzvD5ragVbRfd_8PpAiLhyLgaGTOIiC/view?usp=sharing) Time Series Analysis in Python.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1FHrMj9aWCNNZyI-9DJiY14zz3xwWad5G/view?usp=sharing) Manipulating Time Series Data in Python.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/103VFi3z0LpAzpDRTPs-gt-lttj9WQ7i0/view?usp=sharing) Fundamentals of Credit.** Corporate FInance Institute (2 hour)
-* **[(2023)](https://drive.google.com/file/d/1fE8Co0DhhD5d7PjjF6Omssukq8QHg2ki/view?usp=sharing) Introduction to Fintech.** Corporate Finance Institute (1 hour)
-* **[(2023)](https://drive.google.com/file/d/1fC8GL19hZNDbyOoZJTXCHxORk2YSSPKg/view?usp=sharing) Introduction to Banking.** Corporate Finance Institute (2 hours)
-* **[(2023)](https://drive.google.com/file/d/1fC7reen0sIIOae-Ap_XH9LWZc8kyZZzt/view?usp=sharing) Data Manipulation in SQL.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1f2ZI09B8BYWaFT6ncFecinABF6czzGEh/view?usp=sharing) Joining Data in SQL.** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (2 hours)
-* **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (3 hours)
-* **[(2023)](https://drive.google.com/file/d/1dkrZnh_2qZGO4s10hefiMNRckbPEnuN_/view?usp=sharing) Feature Engineering with PySpark .** Datacamp (4 hours)
-* **[(2023)](https://drive.google.com/file/d/1c_2EdtVxgXGfd70KhM7FDPNFSfVsYz1q/view?usp=sharing) Cleaning Data with PySpark.** Datacamp (4 hours)
-* **[(2022)](https://drive.google.com/file/d/1b7ohhfAYRzKhiNE2pfllhxDBx4mCD4Ly/view?usp=sharing) Big Data Fundamentals with PySpark.** Datacamp (4 hours)
-* **[(2022)](https://drive.google.com/file/d/1b7bKvgzZeCIG-_RekUcwUzVasjJUikP0/view?usp=sharing) Introduction to PySpark.** Datacamp (4 hours)
-* **[(2022)](https://drive.google.com/file/d/1b94YesXczVIrJQ1ByNSSdeoHbBEgg51m/view?usp=sharing) Intermediate SQL.** Datacamp (4 hours)
+* **[(2023)](https://drive.google.com/file/d/1SycPtxT4I5hf2ObVUY_CwGeW1WuqHYDF/view) Data Preparation in Excel.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1Syb8_y4ZpRm4lhorvtqn_T6GOoMq1lt6/view) Introduction to Excel.** Datacamp (3 hours).
+* **[(2023)](https://drive.google.com/file/d/1I6tInUNcW5lWgpTLCI6BqNQ_Zf1Df5kR/view?usp=sharing) Web Scraping in Python.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1GmYct5MRrJT8QT2TguQhStXsKtt1XhRa/view) Machine Learning for Time Series Data in Python.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1FZwmjYGqaxuauh4aOThteQh0Klc-QiiS/view?usp=sharing) ARIMA models in Python.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1FKzvD5ragVbRfd_8PpAiLhyLgaGTOIiC/view?usp=sharing) Time Series Analysis in Python.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1FHrMj9aWCNNZyI-9DJiY14zz3xwWad5G/view?usp=sharing) Manipulating Time Series Data in Python.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/103VFi3z0LpAzpDRTPs-gt-lttj9WQ7i0/view?usp=sharing) Fundamentals of Credit.** Corporate FInance Institute (2 hour).
+* **[(2023)](https://drive.google.com/file/d/1fE8Co0DhhD5d7PjjF6Omssukq8QHg2ki/view?usp=sharing) Introduction to Fintech.** Corporate Finance Institute (1 hour).
+* **[(2023)](https://drive.google.com/file/d/1fC8GL19hZNDbyOoZJTXCHxORk2YSSPKg/view?usp=sharing) Introduction to Banking.** Corporate Finance Institute (2 hours).
+* **[(2023)](https://drive.google.com/file/d/1fC7reen0sIIOae-Ap_XH9LWZc8kyZZzt/view?usp=sharing) Data Manipulation in SQL.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1f2ZI09B8BYWaFT6ncFecinABF6czzGEh/view?usp=sharing) Joining Data in SQL.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (2 hours).
+* **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (3 hours).
+* **[(2023)](https://drive.google.com/file/d/1dkrZnh_2qZGO4s10hefiMNRckbPEnuN_/view?usp=sharing) Feature Engineering with PySpark.** Datacamp (4 hours).
+* **[(2023)](https://drive.google.com/file/d/1c_2EdtVxgXGfd70KhM7FDPNFSfVsYz1q/view?usp=sharing) Cleaning Data with PySpark.** Datacamp (4 hours).
+* **[(2022)](https://drive.google.com/file/d/1b7ohhfAYRzKhiNE2pfllhxDBx4mCD4Ly/view?usp=sharing) Big Data Fundamentals with PySpark.** Datacamp (4 hours).
+* **[(2022)](https://drive.google.com/file/d/1b7bKvgzZeCIG-_RekUcwUzVasjJUikP0/view?usp=sharing) Introduction to PySpark.** Datacamp (4 hours).
+* **[(2022)](https://drive.google.com/file/d/1b94YesXczVIrJQ1ByNSSdeoHbBEgg51m/view?usp=sharing) Intermediate SQL.** Datacamp (4 hours).
 * **[(2022)](https://drive.google.com/file/d/1aUCvCw1mN-ksYgQSeUOPcFEJ_od1Eajs/view?usp=sharing) Intermediate SQL Queries.** Datacamp (4 hours).
-* **[(2022)](https://drive.google.com/file/d/1b8m1JsFtVsFa_dYwS8bIQVJv4c2HRCT2/view?usp=sharing) Introduction to SQL.** Datacamp (2 hours)
+* **[(2022)](https://drive.google.com/file/d/1b8m1JsFtVsFa_dYwS8bIQVJv4c2HRCT2/view?usp=sharing) Introduction to SQL.** Datacamp (2 hours).
 * **[(2022)](https://drive.google.com/file/d/1ai6LwEgR57ljlLUYnnVNlXejyzdhYtuA/view) AWS Cloud Concepts.** Datacamp (2 hours).
 * **[(2022)](https://drive.google.com/file/d/1Z8r9yxfP9AybRhsd3jN1H7vaB_pKk5Wj/view?usp=sharing) Statistics for Biologists in R.** IV GBMeeting - Encontro do Programa de Pós-Graduação em Genética e Biologia Molecular - IB/UNICAMP, Brasil (20 hours).
 * **[(2021)](https://drive.google.com/file/d/1ZIkSSqdwMqHPLXytZ0NSW0feyNoTOYC5/view?usp=sharing) Statistical Genetics: Data Analysis for Molecular Breeding.** 11º Congresso Brasileiro de Melhoramento de Plantas - CBMP (3 hours).
-* **[(2021)](https://drive.google.com/file/d/1J_To2U8-gZpB0dQmsQzgyrkFFhBPOulW/view?usp=sharing) Genomic Selection.** Conecta GEM, Brasil. (6h)
+* **[(2021)](https://drive.google.com/file/d/1J_To2U8-gZpB0dQmsQzgyrkFFhBPOulW/view?usp=sharing) Genomic Selection.** Conecta GEM, Brasil. (6h).
 * **[(2021)](https://drive.google.com/file/d/1Kvevj-b6x5IHdW6dMhtx4A4O6vIuMLIC/view?usp=sharing) Python for Natural Language Processing (NLP): ICMC 50th Anniversary Edition.** Instituto de Ciências Matemáticas e de Computação, USP, Brasil (20 hours).
 * **(2021) (Course Assistant) Introduction to Python Programming.** Grupo de Estudos em Genética e Melhoramento (GenMelhor), UFV, Brasil (16 hours).
 * **[(2021)](https://drive.google.com/file/d/15iZMPb9eaEpiupDYq-whndwP1_rwULCC/view?usp=sharing) (Course Assistant) Introduction to Python Programming.** Fundação de Estudos Agrários Luiz de Queiroz, FEALQ, Brasil (16 hours).
