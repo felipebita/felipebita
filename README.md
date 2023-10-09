@@ -69,8 +69,10 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     In this SQL project, I had the opportunity to analyze product data for an online sports retail company. Working with pricing, revenue, ratings, reviews, descriptions, and website traffic data, I applied techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to optimize revenue. The project involved various tasks, including counting missing values, comparing pricing, labeling price ranges, evaluating average discounts by brand, analyzing the correlation between revenue and reviews, and investigating the effect of product description length on ratings and reviews. I also evaluated the performance of footwear and clothing products separately by exploring reviews by month and brand. Through this project, I was able to showcase my data analysis skills and gained valuable experience working with complex datasets.
    
 ## Complementary Education
-* **[(2023)](https://drive.google.com/file/d/1SycPtxT4I5hf2ObVUY_CwGeW1WuqHYDF/view) Data Preparation in Excel.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1Syb8_y4ZpRm4lhorvtqn_T6GOoMq1lt6/view) Introduction to Excel.** Datacamp (3 hours).
+* **[(2023)](https://drive.google.com/file/d/1_0zBjlAuUKgMgylQ_HxG5cEL5Vd5Grio/view?usp=sharing) Data Analysis in Excel.** Datacamp (3 hours).
+* **[(2023)](https://drive.google.com/file/d/1YBmJW-D9rLC8p7y3r02pH4fgwL782oUy/view?usp=sharing) Data Visualization in Excel.** Datacamp (3 hours).
+* **[(2023)](https://drive.google.com/file/d/1SycPtxT4I5hf2ObVUY_CwGeW1WuqHYDF/view) Data Preparation in Excel.** Datacamp (3 hours).
+* **[(2023)](https://drive.google.com/file/d/1Syb8_y4ZpRm4lhorvtqn_T6GOoMq1lt6/view) Introduction to Excel.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/1I6tInUNcW5lWgpTLCI6BqNQ_Zf1Df5kR/view?usp=sharing) Web Scraping in Python.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/1GmYct5MRrJT8QT2TguQhStXsKtt1XhRa/view) Machine Learning for Time Series Data in Python.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/1FZwmjYGqaxuauh4aOThteQh0Klc-QiiS/view?usp=sharing) ARIMA models in Python.** Datacamp (4 hours).
