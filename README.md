@@ -59,7 +59,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 * ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection) (ML, Python)
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
-* ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python) (NotFinished)
+* ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python)
     Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. By accurately predicting credit risk, these institutions can make informed decisions regarding lending, determine appropriate interest rates, and maintain a balanced loan portfolio. Effective credit risk analysis not only minimizes financial losses but also contributes to the stability of the financial system as a whole.
   
 * ### [Pizzeria Sales Dashboard]( https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
