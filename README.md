@@ -60,8 +60,11 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
 * ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python) (NotFinished)
-    Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. By accurately predicting credit risk, these institutions can make informed decisions regarding lending, determine appropriate interest rates, and maintain a balanced loan portfolio. Effective credit risk analysis not only minimizes financial losses but also contributes to the stability of the financial system as a whole.    
-    
+    Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. By accurately predicting credit risk, these institutions can make informed decisions regarding lending, determine appropriate interest rates, and maintain a balanced loan portfolio. Effective credit risk analysis not only minimizes financial losses but also contributes to the stability of the financial system as a whole.
+  
+* ### [Pizzeria Sales Dashboard]( https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
+   
+  
 * ### [Digital Plataform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL)
     FicName is a leading platform in the market for distribution and sale of digital products, offering a comprehensive infrastructure for digital entrepreneurs and content producers who wish to market online courses, books, e-books, videos, and other digital materials. In this report, I’m going to present the strategies, analyses, and findings achieved while working with a dataset, with the goal of highlighting my knowledge in data analysis. The objective is to provide valuable insights to support strategic decisions, reflecting the daily responsibilities of a data analyst in the organization. 
     
