@@ -60,7 +60,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
 * ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python)
-    Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. An efficient model to predict these probabilities and a good strategy are essential to minimize the losses. The model developed in this project had a precision of 0.955 +/- 0.008 and a recall of 0.74 +/- 0.01. As a credit strategy, with an acceptance rate of 85% the portfolio value was maximized to $38,218,116 and with a bad rate of 8.6% the expected loss was estimated as $3,399,892.
+    Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. An efficient model to predict these probabilities and a good strategy are essential to minimize the losses. The model developed in this project had a precision of 0.955 +/- 0.008 and a recall of 0.74 +/- 0.01. As a credit strategy, with an acceptance rate of 85% the portfolio value was maximized to $38,218,116, and with a bad rate of 8.6%, the expected loss was estimated as $3,399,892.
   
 * ### [Pizzeria Sales Dashboard]( https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
    
@@ -75,24 +75,17 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
     A cana-de-açúcar por ser a principal fonte de produção sucroalcooleira é uma espécie de grande importância econômica, por isso, muitos esforços vêm sendo feitos para compreender seu complexo genoma e auxiliar programas de melhoramento. Este relatório descreve as atividades que tiveram por objetivo identificar genes candidatos a cópia única em cana-de-açúcar, genes esses que são de grande utilidade na construção de mapas genéticos e na análise de expressão gênica. A primeira estratégia para identificar esses genes foi encontrar os genes de cópia única compartilhados entre arroz, milho e sorgo e identificar as sequências equivalentes no transcriptoma da cana-de-açúcar. Partindo dos genes de cana foi feito o mapeamento de transcritos de diferentes tecidos do organismo e o ranqueamento pela proporção polimorfismos/tamanho, e então foram mapeados 219 genes dos quais 26 tiveram menos de 5pol./1kbs, os 219 genes passaram por anotação funcional utilizando os termos GO (Gene Ontology), sendo agrupados pelo processo biológico e função molecular. A segunda estratégia foi utilizar sequências do transcriptoma que apresentaram ORFs completas e não estavam presentes nos CDS de arroz, milho e sorgo, sendo consideradas como novos genes. Esses genes (1.712) também foram utilizados no mapeamento de transcritos, apenas 394 genes foram mapeados e puderam ser ranqueados, os resultados se mostraram promissores, 29 genes tiveram até 1 pol./1kb e 127 genes até 5 pol./1kb.
    
 ## Complementary Education
-* **[(2023)](https://drive.google.com/file/d/1bfEAmXhMG-I3-7fZ5Xibin3Nw2J2qE4n/view?usp=sharing) Case Study: Analyzing Customer Churn in Excel.** Datacamp (3 hours).
-* **[(2023)](https://drive.google.com/file/d/1_0zBjlAuUKgMgylQ_HxG5cEL5Vd5Grio/view?usp=sharing) Data Analysis in Excel.** Datacamp (3 hours).
-* **[(2023)](https://drive.google.com/file/d/1YBmJW-D9rLC8p7y3r02pH4fgwL782oUy/view?usp=sharing) Data Visualization in Excel.** Datacamp (3 hours).
-* **[(2023)](https://drive.google.com/file/d/1SycPtxT4I5hf2ObVUY_CwGeW1WuqHYDF/view) Data Preparation in Excel.** Datacamp (3 hours).
-* **[(2023)](https://drive.google.com/file/d/1Syb8_y4ZpRm4lhorvtqn_T6GOoMq1lt6/view) Introduction to Excel.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1I6tInUNcW5lWgpTLCI6BqNQ_Zf1Df5kR/view?usp=sharing) Web Scraping in Python.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1GmYct5MRrJT8QT2TguQhStXsKtt1XhRa/view) Machine Learning for Time Series Data in Python.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1FZwmjYGqaxuauh4aOThteQh0Klc-QiiS/view?usp=sharing) ARIMA models in Python.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1FKzvD5ragVbRfd_8PpAiLhyLgaGTOIiC/view?usp=sharing) Time Series Analysis in Python.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1FHrMj9aWCNNZyI-9DJiY14zz3xwWad5G/view?usp=sharing) Manipulating Time Series Data in Python.** Datacamp (4 hours).
+
+* **[(2023)](https://drive.google.com/file/d/1ogHKMtKHQe1uvn6wloNaFviJgzphx220/view?usp=sharing) Power BI Fundamentals.** Datacamp (17 hours).
+* **[(2023)](https://drive.google.com/file/d/1otGc63TJ8h2DFmDZBZJufPvhrkqj9WDm/view?usp=sharing) Excel Fundamentals.** Datacamp (16 hours).
+* **[(2023)](https://drive.google.com/file/d/1oizEbC0cTzyhxkx6R9ymTTpVqLSPWl_A/view?usp=sharing) Time Series with Python.** Datacamp (20 hours).
 * **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/103VFi3z0LpAzpDRTPs-gt-lttj9WQ7i0/view?usp=sharing) Fundamentals of Credit.** Corporate FInance Institute (2 hour).
 * **[(2023)](https://drive.google.com/file/d/1fE8Co0DhhD5d7PjjF6Omssukq8QHg2ki/view?usp=sharing) Introduction to Fintech.** Corporate Finance Institute (1 hour).
 * **[(2023)](https://drive.google.com/file/d/1fC8GL19hZNDbyOoZJTXCHxORk2YSSPKg/view?usp=sharing) Introduction to Banking.** Corporate Finance Institute (2 hours).
+* **[(2023)](https://drive.google.com/file/d/1I6tInUNcW5lWgpTLCI6BqNQ_Zf1Df5kR/view?usp=sharing) Web Scraping in Python.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/1fC7reen0sIIOae-Ap_XH9LWZc8kyZZzt/view?usp=sharing) Data Manipulation in SQL.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/1f2ZI09B8BYWaFT6ncFecinABF6czzGEh/view?usp=sharing) Joining Data in SQL.** Datacamp (4 hours).
-* **[(2023)](https://drive.google.com/file/d/1dZAEOB45hBkpO0tF-yGC5o1jy_0RlUet/view) Introduction to DAX in Power BI.** Datacamp (2 hours).
-* **[(2023)](https://drive.google.com/file/d/1caLGzBtlliDOqo0UdfOKmIMgU4bdytZt/view) Introduction to Power BI.** Datacamp (3 hours).
 * **[(2023)](https://drive.google.com/file/d/1dkrZnh_2qZGO4s10hefiMNRckbPEnuN_/view?usp=sharing) Feature Engineering with PySpark.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/1c_2EdtVxgXGfd70KhM7FDPNFSfVsYz1q/view?usp=sharing) Cleaning Data with PySpark.** Datacamp (4 hours).
 * **[(2022)](https://drive.google.com/file/d/1b7ohhfAYRzKhiNE2pfllhxDBx4mCD4Ly/view?usp=sharing) Big Data Fundamentals with PySpark.** Datacamp (4 hours).
