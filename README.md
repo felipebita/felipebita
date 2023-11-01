@@ -76,9 +76,9 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
    
 ## Complementary Education
 
-* **[(2023)](https://drive.google.com/file/d/1ogHKMtKHQe1uvn6wloNaFviJgzphx220/view?usp=sharing) Power BI Fundamentals.** Datacamp (17 hours).
-* **[(2023)](https://drive.google.com/file/d/1otGc63TJ8h2DFmDZBZJufPvhrkqj9WDm/view?usp=sharing) Excel Fundamentals.** Datacamp (16 hours).
-* **[(2023)](https://drive.google.com/file/d/1oizEbC0cTzyhxkx6R9ymTTpVqLSPWl_A/view?usp=sharing) Time Series with Python.** Datacamp (20 hours).
+* **[(2023)](https://drive.google.com/file/d/1ogHKMtKHQe1uvn6wloNaFviJgzphx220/view?usp=sharing) Power BI Fundamentals.** (DAX, Data Preparation, Data Visualization, Data Modeling, Case Study) Datacamp (17 hours).
+* **[(2023)](https://drive.google.com/file/d/1otGc63TJ8h2DFmDZBZJufPvhrkqj9WDm/view?usp=sharing) Excel Fundamentals.** (Data Preparation, Data Visualization, Data Analysis, Case Study) - Datacamp (16 hours).
+* **[(2023)](https://drive.google.com/file/d/1oizEbC0cTzyhxkx6R9ymTTpVqLSPWl_A/view?usp=sharing) Time Series with Python.** (Manipulation, Analysis, Visualization, ARIMA, Machine Learning) - Datacamp (20 hours).
 * **[(2023)](https://drive.google.com/file/d/1fF3VtFfmJBp2n2ffkhBy1gl_ZID9-cTL/view?usp=sharing) Credit Risk Modeling in Python.** Datacamp (4 hours).
 * **[(2023)](https://drive.google.com/file/d/103VFi3z0LpAzpDRTPs-gt-lttj9WQ7i0/view?usp=sharing) Fundamentals of Credit.** Corporate FInance Institute (2 hour).
 * **[(2023)](https://drive.google.com/file/d/1fE8Co0DhhD5d7PjjF6Omssukq8QHg2ki/view?usp=sharing) Introduction to Fintech.** Corporate Finance Institute (1 hour).
