@@ -65,7 +65,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 * ### [Pizzeria Sales Dashboard]( https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
    
   
-* ### [Digital Plataform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL)
+* ### [Digital Platform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL)
     FicName is a leading platform in the market for distribution and sale of digital products, offering a comprehensive infrastructure for digital entrepreneurs and content producers who wish to market online courses, books, e-books, videos, and other digital materials. In this report, I’m going to present the strategies, analyses, and findings achieved while working with a dataset, with the goal of highlighting my knowledge in data analysis. The objective is to provide valuable insights to support strategic decisions, reflecting the daily responsibilities of a data analyst in the organization. 
     
 * ### [Optimizing Online Sports Retail Revenue](https://github.com/felipebita/optimizing_online_sports_retail_revenue) (SQL)
