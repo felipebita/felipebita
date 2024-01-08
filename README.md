@@ -14,7 +14,7 @@
 ## About Me
 Analytical and investigative profile with good teamwork skills. I have six years of experience in data analysis for genetics/plant breeding projects. During this period, I have gained skills in programming (R and Python), statistical analysis/modeling, machine learning, project development, technical writing, and storytelling. In addition to these skills, I have knowledge of Spark, SQL, GitHub, and PowerBI. I am currently transitioning my career to fields related to business, finance and banking, I have projects on fraud detection, credit risk modeling e sales analysis. My portfolio (on Git) contains a complete description of my academic projects, study projects, certifications, and lectures/presentations. 
 
-Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM4DCiBZ8ch/view?usp=sharing)  [(PTBR)](https://drive.google.com/file/d/1djEAULOTYeq2MUAB_FCemdrv0SvCXmYa/view?usp=sharing)
+Curriculum vitae [(EN)](https://drive.google.com/file/d/1xQaXmYJrwXLbvn3zEyYnBPWBkT-wAE5L/view?usp=sharing)  
 
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
