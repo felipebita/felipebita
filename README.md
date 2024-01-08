@@ -20,16 +20,19 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
         Data Science                                     Research                                           Microsoft Windows
         Data Analysis                                    Bioinformatics                                     Linux
         Data Mining                                      Computational Biology                              Apple Mac
-        Data Visualization                               Genetics                                           Ubuntu
-        Statistics                                       Plant Genetics                                     CentOS
+        Data Visualization                               Genetics                                           CentOS
+        Statistics                                       Plant Genetics                                     
         Machine Learning                                 Plant Breeding                                     
         Python                                           Genomic Data
         R                                                Genotyping
         SQL                                              Molecular Markers
         GitHub                                           GBS
-        AWS                                              Transcriptome
+        Streamlit                                        Transcriptome
         Spark                                            Simulation
-        Microsoft Office/Power BI                        Teaching
+        Microsoft Excel/Power BI                         Teaching
+        Docker
+        Airflow
+        FastAPI
 
 ## Education
 * **2018 - 2022**
