@@ -120,8 +120,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1e0tLglt8cKbr7wknGx_VrKM
 
 ## Lectures and Presentations
 * ### PhD Defense Presentation [(slides)](https://drive.google.com/file/d/1avUpwH16_cMy_DZk7N3cYd0LzD9HfED8/view?usp=sharing)(en)
-    Contaminant identification and multiomic analysis applied in polyploid tropical forage grasses molecular breeding 
-    
+    Slides used in my PhD thesis defense: Contaminant identification and multiomic analysis applied in polyploid tropical forage grasses molecular breeding. 
 
 * ### Contaminant Identification in Polyploids (videos)(en)
     [Video-poster](https://drive.google.com/file/d/1K8t9R4DzqFK9VmUHQcnjwUwpBBbcKFyv/view?usp=sharing) of the article [A Semi-Automated SNP-Based Approach for Contaminant Identification in Biparental Polyploid Populations of Tropical Forage Grasses](https://www.frontiersin.org/articles/10.3389/fpls.2021.737919/full) submited in the [11º CBPM - Brazilian Congress of Plant Breeding](https://www.cbmp2021.com.br/).
