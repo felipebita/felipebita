@@ -52,7 +52,7 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1xQaXmYJrwXLbvn3zEyYnBPW
 ## Portfolio Projects
 
 * ### [MAIA - My Artificil Intelligence App](https://github.com/felipebita/maia) (LLM, Python, Streamlit)
-    An AI powered app designed to boost your productivity and creativity. It has three features: chat with documents, summarization and image creation. The models implemented are from OpenAI, including GPT 3.5 and 4, and DALL-E 2 and 3. The app was developed using Python, integrating Streamlit and Langchain, and can be accessed by the link: [MAIA](https://maia-67dp.onrender.com).
+    An AI powered app designed to boost your productivity and creativity. It has three features: chat with documents, summarization and image creation. The models implemented are from OpenAI, including GPT 3.5 and 4, and DALL-E 2 and 3. The app was developed using Python, integrating Streamlit and Langchain, and can be accessed by the link: [MAIA](https://maiaonline.streamlit.app/).
 
 * ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection) (ML, Python)
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
