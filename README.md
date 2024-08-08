@@ -18,7 +18,7 @@ During this period, I have gained skills in programming (R and Python), statisti
 
 With a variety of tools and technologies at my disposal and a track record of academic excellence, I am committed to contributing to business success by assisting in data collection, analysis, and interpretation, focusing on informed strategic decisions and driving growth and innovation.
 
-Curriculum vitae [(EN)](https://drive.google.com/file/d/1tppBn8nP-GgPHor3f0LjifS9XlGgFfla/view?usp=sharing)
+Curriculum vitae [(EN)](https://drive.google.com/file/d/1cbWABVFq4viLyJaT851cYGzmwNs68M3a/view?usp=sharing)
 
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
