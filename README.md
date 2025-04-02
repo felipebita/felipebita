@@ -12,13 +12,13 @@
 </div>
 
 ## About Me
-Strong analytical, investigative and teamwork abilities. I have six years of academic experience with genetics/plant breeding data and a year working with data solutions.
+Strong analytical, investigative and teamwork abilities. I have six years of academic experience with genetics/plant breeding data and two years working with data solutions.
 
 During this period, I have gained skills in programming (R and Python), statistical analysis/modeling, machine learning, project development, technical writing, and storytelling. In addition, I have experience developing AI solutions using OpenAI, LangChain, FastAPI and Docker. And beyond that I have knowledge of SQL (MySQL, MSSQL), complete life-cycle of machine learning models (DevOps, MLOps), GitHub, Spark, Airflow, web scraping, analysis and development of dashboards with metrics and KPI’s (Excel and PowerBI), and agile methodologies (Scrum). 
 
 With a variety of tools and technologies at my disposal and a track record of academic excellence, I am committed to contributing to business success by assisting in data collection, analysis, and interpretation, focusing on informed strategic decisions and driving growth and innovation.
 
-Curriculum vitae [(EN)](https://drive.google.com/file/d/1cbWABVFq4viLyJaT851cYGzmwNs68M3a/view?usp=sharing)
+Curriculum vitae [(EN)](https://drive.google.com/file/d/1XvpOiv-G17UBnKCIrgPQUe7oAnWkUCrR/view)
 
 ## Skills
         Data Science                                     Research                                           Microsoft Windows
