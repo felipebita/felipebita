@@ -58,10 +58,10 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1XvpOiv-G17UBnKCIrgPQUe7
 * ### [MLCenter](https://github.com/felipebita/mlcenter_app) (ML, Python, Streamlit, FastAPI)
     MLCenter is a Predictive Analytics Hub, currently featuring two robust models specializing in credit risk prediction and fraudulent transactions detection. Users can seamlessly submit data through our user-friendly interface, obtaining real-time predictions that empower informed decision-making in financial transactions. The models implemented in the app are the result of the two following projects, and can be acessed by the link: [MLCenter](https://mlcenter-app-waxugbmvta-uc.a.run.app/).
 
-* ### [Fraudulent Transaction Detection](https://github.com/felipebita/fraud_detection) (ML, Python)
+* ### [Fraudulent Transaction Detection - 2022](https://github.com/felipebita/fraud_detection) (ML, Python)
     Financial institutions are facing problems when dealing with fraudulent transactions. Those transactions not only reduces the institution revenue but also its credibility. In this scenario, the Block Fraud Company offers a service that ensures the blocking of fraud transactions. The methodology developed by the BFC is based on machine learning algorithms for classification, the implemented model has a precision of 0.961 +/- 0.021 and a recall of 0.729 +/- 0.026. Considering the company expansion strategy and the model capacity, for a set of 52.185 transactions, the service would generate a total revenue of $57.260.473.
     
-* ### [Credit Risk Modeling](https://github.com/felipebita/credit_risk/tree/main) (ML, Python)
+* ### [Credit Risk Modeling - 2023](https://github.com/felipebita/credit_risk/tree/main) (ML, Python)
     Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. An efficient model to predict these probabilities and a good strategy are essential to minimize the losses. The model developed in this project had a precision of 0.955 +/- 0.008 and a recall of 0.74 +/- 0.01. As a credit strategy, with an acceptance rate of 85% the portfolio value was maximized to $38,218,116, and with a bad rate of 8.6%, the expected loss was estimated as $3,399,892.
   
 * ### [Pizzeria Sales Dashboard](https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
