@@ -52,10 +52,10 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1XvpOiv-G17UBnKCIrgPQUe7
                                    
 ## Portfolio Projects
 
-* ### [MAIA - My Artificil Intelligence App](https://github.com/felipebita/maia) (LLM, Python, Streamlit)
+* ### [MAIA - My Artificil Intelligence App - 2024/25](https://github.com/felipebita/maia) (LLM, Python, Streamlit)
     Your all-in-one solution for seamless interaction with information and harnessing the power of artificial intelligence! Our app offers a unique set of features designed to enhance productivity and streamline tasks. It has four features: chat with documents, summarization, image creation, object detection in images and videos, videos, and agentic workflows (NL 2 VIZ). The models implemented from OpenAI, include GPT 3.5 and 4, and DALL-E 2 and 3, and for object detection, the Ultralytics YOLOv8. The app was developed using Python, integrating Streamlit, LangChain and LangGraph, and can be accessed by the link: [MAIA](https://maiaonline.streamlit.app/).
 
-* ### [MLCenter](https://github.com/felipebita/mlcenter_app) (ML, Python, Streamlit, FastAPI)
+* ### [MLCenter - 2024](https://github.com/felipebita/mlcenter_app) (ML, Python, Streamlit, FastAPI)
     MLCenter is a Predictive Analytics Hub, currently featuring two robust models specializing in credit risk prediction and fraudulent transactions detection. Users can seamlessly submit data through our user-friendly interface, obtaining real-time predictions that empower informed decision-making in financial transactions. The models implemented in the app are the result of the two following projects, and can be acessed by the link: [MLCenter](https://mlcenter-app-waxugbmvta-uc.a.run.app/).
 
 * ### [Fraudulent Transaction Detection - 2022](https://github.com/felipebita/fraud_detection) (ML, Python)
@@ -64,19 +64,19 @@ Curriculum vitae [(EN)](https://drive.google.com/file/d/1XvpOiv-G17UBnKCIrgPQUe7
 * ### [Credit Risk Modeling - 2023](https://github.com/felipebita/credit_risk/tree/main) (ML, Python)
     Credit risk analysis is of paramount importance for financial institutions as it allows them to assess the probability of borrowers defaulting on their loan obligations. An efficient model to predict these probabilities and a good strategy are essential to minimize the losses. The model developed in this project had a precision of 0.955 +/- 0.008 and a recall of 0.74 +/- 0.01. As a credit strategy, with an acceptance rate of 85% the portfolio value was maximized to $38,218,116, and with a bad rate of 8.6%, the expected loss was estimated as $3,399,892.
   
-* ### [Pizzeria Sales Dashboard](https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
+* ### [Pizzeria Sales Dashboard - 2023](https://github.com/felipebita/pizza_sales/tree/main) (SQL, Excel) 
     Presenting a Pizzeria Excel Dashboard project that delves into key performance indicators (KPIs) such as Total Revenue, Average Order Value, and more. From loading data into MS SQL Server to constructing a visually compelling dashboard, this portfolio highlights expertise in data analysis. The dashboard incorporates charts depicting daily and hourly trends, sales percentages by category and size, and identifies top and bottom pizza sellers. The project utilizes a tech stack comprising MS SQL Server and Excel, showcasing a comprehensive approach to deriving actionable insights for strategic decision-making in a concise manner.
 
-* ### [Energy Production Forecasting](https://github.com/felipebita/energy_forecasting) (SQL, Power BI, ML, Python)
+* ### [Energy Production Forecasting - 2024](https://github.com/felipebita/energy_forecasting) (SQL, Power BI, ML, Python)
     This project focuses on analyzing energy production data from ONS and Eneva, with the aim of generating accurate quarterly forecasts. After processing the datasets into an SQLite database, ARIMA models were employed to predict production levels, achieving a SMAPE of 0.488. The analysis showed that ONS data is more reliable, providing the basis for accurate Eneva forecasts over the next four quarters. These predictions, along with their confidence intervals, offer critical insights for strategic decision-making, empowering the energy sector with data-driven foresight.
   
-* ### [Customer Segmentation for Marketing Optimization](https://github.com/felipebita/customerseg) (ML, Python)
+* ### [Customer Segmentation for Marketing Optimization - 2024](https://github.com/felipebita/customerseg) (ML, Python)
     This project segments customers based on their purchasing behavior using K-means clustering, focusing on order frequency, timing preferences, and product volume. By engineering features like midday and week ordering tendencies, I created a 5-cluster model to support targeted marketing strategies. The outcome demonstrates my ability to transform raw data into valuable customer insights for tailored marketing initiatives. 
 
-* ### [Digital Platform Sales Data Analysis](https://github.com/felipebita/digital_market_sales) (SQL)
+* ### [Digital Platform Sales Data Analysis - 2023](https://github.com/felipebita/digital_market_sales) (SQL)
     FicName is a leading platform in the market for distribution and sale of digital products, offering a comprehensive infrastructure for digital entrepreneurs and content producers who wish to market online courses, books, e-books, videos, and other digital materials. In this report, I’m going to present the strategies, analyses, and findings achieved while working with a dataset, with the goal of highlighting my knowledge in data analysis. The objective is to provide valuable insights to support strategic decisions, reflecting the daily responsibilities of a data analyst in the organization. 
     
-* ### [Optimizing Online Sports Retail Revenue](https://github.com/felipebita/optimizing_online_sports_retail_revenue) (SQL)
+* ### [Optimizing Online Sports Retail Revenue - 2022](https://github.com/felipebita/optimizing_online_sports_retail_revenue) (SQL)
     In this SQL project, I had the opportunity to analyze product data for an online sports retail company. Working with pricing, revenue, ratings, reviews, descriptions, and website traffic data, I applied techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to optimize revenue. The project involved various tasks, including counting missing values, comparing pricing, labeling price ranges, evaluating average discounts by brand, analyzing the correlation between revenue and reviews, and investigating the effect of product description length on ratings and reviews. I also evaluated the performance of footwear and clothing products separately by exploring reviews by month and brand. Through this project, I was able to showcase my data analysis skills and gained valuable experience working with complex datasets.
   
 ## Scientific Projects  
